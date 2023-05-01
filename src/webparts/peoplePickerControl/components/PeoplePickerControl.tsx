@@ -64,6 +64,7 @@ export default class PeoplePickerControl extends React.Component<IPeoplePickerCo
       />
         <div style={{ textAlign: "center" }}>
           <PrimaryButton text="Create" onClick={() => this.onSaveData()} /></div>
+          <h1>Hello world</h1>
       </div>
     );
   }
