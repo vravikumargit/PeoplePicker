@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "peoplepicker-client-side-solution",
+    "id": "bf5062c1-f6c0-405f-bbed-4bd5fcbea4f6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "peoplepicker description"
+      },
+      "longDescription": {
+        "default": "peoplepicker description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "peoplepicker Feature",
+        "description": "The feature that activates elements of the peoplepicker solution.",
+        "id": "320a9ab9-83f6-435a-8b87-8cd218273db0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/peoplepicker.sppkg"
+  }
+}

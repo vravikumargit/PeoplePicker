@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "peoplepicker",
+    "libraryId": "bf5062c1-f6c0-405f-bbed-4bd5fcbea4f6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "peoplepicker",
+    "solutionShortDescription": "peoplepicker description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
